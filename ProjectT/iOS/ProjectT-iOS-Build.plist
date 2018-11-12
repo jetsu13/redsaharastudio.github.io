@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.182.63/iOS/ProjectT.ipa</string>
+					<string>http://192.168.182.150:8081/ProjectT.ipa</string>
 				</dict>
 				<!--<dict>
 					<key>kind</key>
